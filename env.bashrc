@@ -1,0 +1,5 @@
+export client_id=""
+export secret=""
+export environment="sandbox"
+export countries="CA,US"
+export products="transactions"
